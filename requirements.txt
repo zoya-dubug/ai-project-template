@@ -1,0 +1,8 @@
+# Add project-specific dependencies here.
+#
+# Example:
+# numpy
+# pandas
+# scikit-learn
+# tensorflow
+# torch
